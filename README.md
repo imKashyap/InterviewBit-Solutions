@@ -41,5 +41,9 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 
 ***
 
-|Sl. No.|Problem|Solution|Type|
-|--|-- |--|--|
+|Sl. No.|Problem|Solution|
+|--|-- |--|
+|01| [Merge Intervals](https://www.interviewbit.com/courses/programming/topics/arrays/problems/merge-intervals/)|[Solution](./Merge%20Intervals/Solution.java)|
+|02| [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)|[Solution](./Merge%20Overlapping%20Intervals/Solution.java)|
+|03| [Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/)|[Solution](./Number%20of%201%20Bits/Solution.java)|
+|04|[Reverse Bits](interviewbit.com/problems/reverse-bits/)|[Solution](./Reverse%20Bits/Solution.java)|
